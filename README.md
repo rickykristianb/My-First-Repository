@@ -1,2 +1,3 @@
 # My-First-Repository
-My First Repository To learn Dara Science
+My First Repository To learn Data Science
+Wish me luck
